@@ -14,7 +14,7 @@ Before running this project, ensure you have the following installed:
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: `git clone https://github.com/HollowLeaf1981/tableau-tour`
 
 2. Navigate to the project directory:
 
