@@ -1,0 +1,8 @@
+{
+  "port": 9999,
+  "extensions": {
+    "tableauTour": {
+      "path": "C:/Users/toanq/Downloads/Tableau Extensions/tableau-tour/dist"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+html,
+body {
+  background-color: transparent !important; /* Set transparent background */
+  margin: 0;
+  padding: 0;
+  border: none;
+  overflow: hidden; /* Prevent unwanted scrollbars */
+}
+
+#root {
+  background-color: transparent;
+}
