@@ -36,13 +36,15 @@ Before running this project, ensure you have the following installed:
    npm run dev
    ```
 
-2. Open your browser and navigate to `http://localhost:5173 ` to see the application.
+2. Open your browser and navigate to `http://localhost:5173` to see the application.
 
 3. Follow the steps below to load this extension into Tableau:
 
 - Open Tableau Desktop.
 - Add an Extension object to your dashboard.
 - Choose to load the extension from a local file and select the manifest.trex from the project.
+- Expand the Extension to be is the size of your dashboard and add a Hide/Show Button (make sure this is in front).
+- Click on Configure... and set which items will be a part of the tour. You can also set the font and background colour.
 
 ## Project Structure
 
