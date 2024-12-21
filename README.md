@@ -56,7 +56,7 @@ Before running this project, ensure you have the following installed:
 │   ├── App.jsx            # Main application logic
 │   ├── index.css          # Style Sheet
 │   └── main.jsx           # Application entry point
-├── package.json
+├── manifest.trex          # The Tableau Manifest (.trex) file
 └── index.html             # Main entry point for the extension
 ```
 
